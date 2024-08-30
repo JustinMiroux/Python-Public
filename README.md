@@ -1,8 +1,8 @@
 EN : 
     Welcome to my public repository.
-    Here you will find personal.
+    Here you will find personal projects.
     You're free to use everything in here,
-    But don't you dare come after me if there are any mistakes.
+    But don't come after me if there are any mistakes.
 
 FR :
     Bienvenu sur mon repertoire publique.
